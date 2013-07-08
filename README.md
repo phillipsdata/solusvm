@@ -4,7 +4,7 @@ SolusVM is a VPS control panel. This API is a wrapper for the [SolusVM API](http
 
 #### NOTE ####
 
-SolusVM responds with non-standard XML data. This API implementation makes every attempt to correct inconsistencies that appear in the response data in a forward-compatible way (anticipating that SolusVM correct such issues in the future).
+SolusVM responds with non-standard XML data. This API implementation makes every attempt to correct inconsistencies that appear in the response data in a forward-compatible way (anticipating that SolusVM corrects such issues in the future).
 
 
 ## Requirements ##
